@@ -1,1 +1,1 @@
-# ComfyUI_Workflow_Viewer
+# ComfyUI Workflow Viewer
